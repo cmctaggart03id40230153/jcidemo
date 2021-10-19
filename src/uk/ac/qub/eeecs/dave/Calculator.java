@@ -4,7 +4,7 @@ public class Calculator {
 	public int add(int a, int b) {
 		return a+b+1;
 	}
-	//adding for commit i hate u travis
+	//adding for commit i hate u travis pls
 	public int sub(int a, int b) {
 		return a-b;
 	} 
